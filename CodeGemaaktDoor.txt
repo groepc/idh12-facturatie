@@ -1,0 +1,24 @@
+
+Jermey:
+DataStorage
+
+Mark:
+Facturatie
+Inloggen
+
+Gregor
+Hoofdscherm
+Rmi
+Verzekeringen
+
+Jermey & Gregor & Mark
+Klanten
+BusinessDomain
+
+Koen & Leendert & Willem
+1 regel hoofdscherm
+Klant invoeren -> knoppen gegenereerd
+Beetje javadoc
+
+
+

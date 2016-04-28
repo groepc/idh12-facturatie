@@ -1,0 +1,3 @@
+grant codeBase "file:/C:/git_proftaak/workspace/bin" {
+    permission java.security.AllPermission;
+};

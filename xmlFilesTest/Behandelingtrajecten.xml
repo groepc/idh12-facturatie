@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Behandelingtrajecten>
+<Behandeltraject behandelCode="1"><naam>naam</naam><tarief>22.1</tarief><eigenBijdrage>20.0</eigenBijdrage><aantalSessies>0</aantalSessies></Behandeltraject>
+<Behandeltraject behandelCode="2"><naam>naam</naam><tarief>22.1</tarief><eigenBijdrage>20.0</eigenBijdrage><aantalSessies>0</aantalSessies></Behandeltraject>
+<Behandeltraject behandelCode="3"><naam>naam</naam><tarief>22.1</tarief><eigenBijdrage>20.0</eigenBijdrage><aantalSessies>0</aantalSessies></Behandeltraject>
+<Behandeltraject behandelCode="4"><naam>naam</naam><tarief>22.1</tarief><eigenBijdrage>20.0</eigenBijdrage><aantalSessies>0</aantalSessies></Behandeltraject>
+<Behandeltraject behandelCode="5"><naam>naam</naam><tarief>22.1</tarief><eigenBijdrage>20.0</eigenBijdrage><aantalSessies>0</aantalSessies></Behandeltraject>
+<Behandeltraject behandelCode="6"><naam>6naam</naam><tarief>22.1</tarief><eigenBijdrage>20.0</eigenBijdrage><aantalSessies>0</aantalSessies></Behandeltraject>
+<Behandeltraject behandelCode="7"><naam>naam7</naam><tarief>22.1</tarief><eigenBijdrage>20.0</eigenBijdrage><aantalSessies>0</aantalSessies></Behandeltraject>
+</Behandelingtrajecten>

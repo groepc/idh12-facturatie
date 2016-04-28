@@ -1,0 +1,8 @@
+systeem.rmi.business
+-> remoteSessies
+-> -> Getsessies (geeft nu random lijst met sessies terug)
+
+Let op Boolean rmidone staat op false, hierdoor wordt rmi gedeelte omzeild.
+
+In methode fallback, wordt random aantal sessies gemaakt (aantal en inhoud zijn Random) tot max van 40.
+
