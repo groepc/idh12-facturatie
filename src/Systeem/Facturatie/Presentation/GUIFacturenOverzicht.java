@@ -48,7 +48,7 @@ public class GUIFacturenOverzicht extends JPanel {
 	private SimpleDateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy");
 
 	/** The df. */
-	private DecimalFormat df = new DecimalFormat("€ ###,##0.00");
+	private DecimalFormat df = new DecimalFormat("â‚¬ ###,##0.00");
 
 	/** The list. */
 	List<Factuur> fList = null;

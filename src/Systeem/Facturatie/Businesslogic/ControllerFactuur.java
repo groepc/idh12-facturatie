@@ -47,7 +47,7 @@ public class ControllerFactuur {
 	/**
 	 * Maakt decimaal en Datum format aan
 	 */
-	private DecimalFormat df = new DecimalFormat("€ ###,##0.00");
+	private DecimalFormat df = new DecimalFormat("â‚¬ ###,##0.00");
 
 	/**
 	 * Geeft dag maand jaar door in getallen voorbeeld: 04-11-2014

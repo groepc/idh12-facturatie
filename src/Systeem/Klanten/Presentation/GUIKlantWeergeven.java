@@ -59,7 +59,7 @@ public class GUIKlantWeergeven extends JPanel {
 	public GUIKlantWeergeven(final ParentFrame parent, final Klant klant) {
 		klantInfo = klant;
 		this.parent = parent;
-		DecimalFormat df = new DecimalFormat("€ ###,##0.00");
+		DecimalFormat df = new DecimalFormat("â‚¬ ###,##0.00");
 
 		setVisible(true);
 		setSize(750, 550);
