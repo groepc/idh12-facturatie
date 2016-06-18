@@ -29,7 +29,8 @@ import Systeem.Datastorage.DAO.DAOVerzekeringmaatschappij;
 @SuiteClasses({ ControllerBehandelTrajectenTest.class,
 		ControllerFactuurTest.class, ControllerKlantTest.class,
 		ControllerVerzekeringenTest.class,
-		ControllerVerzekeringMaatschappijenTest.class })
+		ControllerVerzekeringMaatschappijenTest.class,
+                GrenswaardenAnalyseTest.class})
 public class AlleControllersTesten {
 
 	/**
